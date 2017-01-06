@@ -9,6 +9,7 @@ $(function False(){
     $(this).toggleClass("background_false");
     });
 });
+
 //question 1
 $('#suivant').click (function(){
   $('.question1').hide('1000')//cacher

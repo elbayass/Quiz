@@ -6,26 +6,28 @@
 .question9, .question10 {
   width: 500px;
   height: auto;
+  margin-left: 300px;
+  margin-top: 100px;
 }
-.reponse1, .reponse2, .reponse3, .reponse4,
-.reponse5, .reponse6, .reponse7, .reponse8,
-.reponse9, .reponse10 {
-  width: 200px;
+p {
+  text-align: center;
+  font-weight: bold;
+}
+.reponse1, .reponse2 {
+  width: 600px;
   height: auto;
 }
 #retour, #retour2, #retour3, #retour4,
 #retour5, #retour6, #retour7, #retour8,
 #retour9, #retour10 {
-  width: 200px;
-  height: auto;
+  width: 600px;
   background-color: blue;
 }
 #suivant, #suivant2, #suivant3,
 #suivant4, #suivant5, #suivant6,
 #suivant7, #suivant8, #suivant9,
 #suivant10 {
-  width: 200px;
-  height: auto;
+  width: 600px;
   background-color: yellow;
 }
 .background_true{
