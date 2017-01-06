@@ -1,0 +1,41 @@
+.container {
+  max-width: 100%;
+}
+.question1, .question2, .question3, .question4,
+.question5, .question6, .question7, .question8,
+.question9, .question10 {
+  width: 500px;
+  height: auto;
+}
+.reponse1, .reponse2, .reponse3, .reponse4,
+.reponse5, .reponse6, .reponse7, .reponse8,
+.reponse9, .reponse10 {
+  width: 200px;
+  height: auto;
+}
+#retour, #retour2, #retour3, #retour4,
+#retour5, #retour6, #retour7, #retour8,
+#retour9, #retour10 {
+  width: 200px;
+  height: auto;
+  background-color: blue;
+}
+#suivant, #suivant2, #suivant3,
+#suivant4, #suivant5, #suivant6,
+#suivant7, #suivant8, #suivant9,
+#suivant10 {
+  width: 200px;
+  height: auto;
+  background-color: yellow;
+}
+.background_true{
+  background-color: green;
+}
+.background_false{
+  background-color: red;
+}
+.question2, .question3, .question4,
+.question5, .question6, .question7, .question8,
+.question9, .question10{
+  display: none;
+}
