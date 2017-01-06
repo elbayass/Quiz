@@ -1,3 +1,7 @@
+img {
+  width: 300px;
+  height: auto;
+}
 .container {
   max-width: 100%;
 }
